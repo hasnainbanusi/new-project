@@ -1,4 +1,4 @@
-Aura | Premium E-Commerce Storefront
+Shopping Mall| Premium E-Commerce Storefront
 Aura ek modern, minimalist, aur responsive e-commerce landing page hai jise clean UI aur seamless user experience ke liye design kiya gaya hai. Ye project handcrafted leather accessories aur premium fragrances ko showcase karne ke liye banaya gaya hai.
 
 🚀 Features
